@@ -1,0 +1,7 @@
+E:\alvaro\semestres\7SEM\actualizacion tec\ClaseYHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.csprojResolveAssemblyReference.cache
+E:\alvaro\semestres\7SEM\actualizacion tec\ClaseYHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.csproj.CoreCompileInputs.cache
+E:\alvaro\semestres\7SEM\actualizacion tec\ClaseYHerencia\ClasesHerencia\bin\Debug\ClasesHerencia.exe.config
+E:\alvaro\semestres\7SEM\actualizacion tec\ClaseYHerencia\ClasesHerencia\bin\Debug\ClasesHerencia.exe
+E:\alvaro\semestres\7SEM\actualizacion tec\ClaseYHerencia\ClasesHerencia\bin\Debug\ClasesHerencia.pdb
+E:\alvaro\semestres\7SEM\actualizacion tec\ClaseYHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.exe
+E:\alvaro\semestres\7SEM\actualizacion tec\ClaseYHerencia\ClasesHerencia\obj\Debug\ClasesHerencia.pdb
